@@ -1,0 +1,24 @@
+#home {
+  padding-top: 5rem;
+  background: #292929;
+  color: #00be00;
+}
+
+#about {
+  background: #383838;
+  color: #00be00;
+}
+
+#project {
+  background: #292929;
+  color: #00be00;
+}
+
+#contact {
+  background: #383838;
+  color: #00be00;
+}
+
+section {
+  padding-top: 5rem;
+}
